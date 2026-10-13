@@ -1,0 +1,11 @@
+
+.idea/
+**/__pycache__
+**/.DS_Store
+
+**/venv
+solutions
+/dataset
+airflow/logs
+dbt.log
+.user.yml
